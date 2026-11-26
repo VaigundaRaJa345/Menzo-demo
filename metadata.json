@@ -1,0 +1,8 @@
+{
+  "name": "Menzo Clothing",
+  "description": "Contemporary menswear & everyday essentials from Menzo Clothing, Chennai. Discover oversized tees, relaxed linen shirts, hoodies, and tailored casuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
